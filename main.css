@@ -24,6 +24,7 @@ img {
 }
 
 .info-main {
+    background-color: blue;
     grid-template-columns: 1fr 2fr;
     grid-template-rows: 100vh;
     grid-row-start: 1;
